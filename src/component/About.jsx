@@ -114,7 +114,7 @@ export default function About() {
                 className="text-yellow-400/80 text-xs tracking-[0.25em] uppercase mb-3"
                 style={{ fontFamily: "'Courier New', monospace" }}
               >
-                Sosial Media
+                Github
               </h3>
               <p className="text-white/70 text-sm">Ryu331</p>
             </div>
